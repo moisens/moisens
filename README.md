@@ -7,7 +7,6 @@ Frontend developer
 I'm a passionate Junior Frontend Developer with a knack for tackling full-stack projects when needed. I consider myself a React wizard 🧙‍♂️ and a TypeScript padawan 🛡️, always eager to level up my skills. I'm constantly learning and experimenting with new technologies, and my next challenge is diving into AI-powered solutions for web development. Let’s build something awesome together! 🚀
 
 * 🌍  I'm based in Belgium
-* ✉️  You can contact me at [moise\_ns@outlook.com](mailto:moise_ns@outlook.com)
 * 🧠  I'm learning prisma
 
 ### Skills
