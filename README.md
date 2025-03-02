@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend developer
 ------------------
 
-I'm a passionate Junior Frontend Developer with a knack for tackling full-stack projects when needed. I consider myself a React wizard 🧙‍♂️ and a TypeScript padawan 🛡️, always eager to level up my skills. I'm constantly learning and experimenting with new technologies, and my next challenge is diving into AI-powered solutions for web development. Let’s build something awesome together! 🚀
+I'm a passionate Junior Frontend Developer with a knack for tackling full-stack projects when needed. I consider myself a React wizard 🧙‍♂️ and a TypeScript padawan 🛡️, always eager to level up my skills. I'm constantly learning and experimenting with new technologies, and my next challenge is diving into AI-powered solutions for web development. I will help you bring your ideas to life!💡🚀
 
 * 🌍  I'm based in Belgium
 * 🧠  I'm learning prisma and unit testing
